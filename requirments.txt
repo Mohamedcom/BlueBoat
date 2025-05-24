@@ -4,6 +4,7 @@ folium
 streamlit-folium
 pydeck
 plotly
+matplotlib
 
 # Data handling & HTTP
 pandas
