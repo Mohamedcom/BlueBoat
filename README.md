@@ -31,5 +31,5 @@ A Python‐based autonomous ocean intelligence platform that combines real-time 
 - **config.py**  
   Constants: data source URLs, region bounds, hazard definitions, and land-mask geometry :contentReference
 
-- **Surveyes.Ipynb**  
+- **Surveyes.ipynb**  
   Jupyter notebook for interactive data exploration, survey visualizations, and preliminary analysis
