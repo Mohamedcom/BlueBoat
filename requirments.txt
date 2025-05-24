@@ -1,0 +1,28 @@
+# Web/UI
+streamlit
+folium
+streamlit-folium
+pydeck
+plotly
+
+# Data handling & HTTP
+pandas
+numpy
+requests
+urllib3
+aiohttp
+
+# Geospatial & mapping
+shapely
+cartopy
+geopy
+
+# Database
+supabase-py
+
+# Machine learning
+scikit-learn
+tensorflow
+
+# Optional (for retry logic & warnings)
+urllib3
